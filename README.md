@@ -5,7 +5,7 @@
 - ⚡ I’m a Website Developer.                                  
 - 👨🏽‍💻 I’m currently learning and growing my skills Web & App Devlopemnet .                                        
 - 😉 Open source enthusiast  
-- 📫 How to reach me: sshinde2482@gmail.com   
+- 📫 How to reach me: ssdevloper2482@gmail.com   
 - ⚡ My portfolio : https://saurabhshinde.site/         
 <!-- - 💬 Ask me about React , I am happy to help😄  -->
            
