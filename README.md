@@ -1,13 +1,13 @@
 ### <h1>Hi there, I am Saurabh Shinde <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>                                                                                                                                                    
 <br>                                                                              
                                                                  
- ## I'm a Student and Developer!                                                     
-- ⚡ I’m a Website Developer.                                  
-- 👨🏽‍💻 I’m currently learning and growing my skills Web & App Devlopemnet .                                        
+ ## I'm a Developer!                                                     
+- ⚡ I develop awesome Websites🤩.                                  
+- 👨🏽‍💻 I’m currently learning and growing my skills in Web and app Development.                                        
 - 😉 Open source enthusiast  
 - 📫 How to reach me: ssdevloper2482@gmail.com   
-- ⚡ My portfolio : https://saurabhshinde.site/         
-<!-- - 💬 Ask me about React , I am happy to help😄  -->
+- ⚡ My portfolio: https://saurabhshinde.site/         
+<!-- - 💬 Ask me about React, next js, react-native and website-related help I am happy to help😄  -->
            
  <br>      
  
